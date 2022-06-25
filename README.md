@@ -1,8 +1,8 @@
 # Fb-Brute-Force
 <h1 align="center">Fb-Brute-Force v2.0</h1>
 
-![](fb1.png)
-![](fb2.png)
+![](fb.png)
+
 # Tested on
 - Kali Linux
 - Ubuntu
