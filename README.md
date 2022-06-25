@@ -1,8 +1,6 @@
 # Fb-Brute-Force
 <h1 align="center">Fb-Brute-Force v2.0</h1>
 
-Crack zip files password.
-
 ![](pas.png)
 
 # Tested on
